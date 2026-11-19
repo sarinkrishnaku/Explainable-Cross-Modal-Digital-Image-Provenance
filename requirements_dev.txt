@@ -1,0 +1,3 @@
+# Optional development/testing tools
+pytest>=8.0
+ruff>=0.6
